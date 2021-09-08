@@ -43,7 +43,7 @@
     </td>
      <td align="center" width="96">
       <a>
-        <img src="./assets/python.svg.svg" width="40"/>
+        <img src="./assets/python.svg" width="40"/>
       </a>
       <br>Python
     </td>
