@@ -2,7 +2,7 @@
 
 <img src="./Sanki0.gif" alt="Sanki0 logo">
 
-## :raising_hand: About me:
+## About me:
   I'm a Computer Science student at <a href="https://www.uni.edu.pe/"> <b>National University of Engineering </b></a>.<br>interested in becoming a Software Engineer from Lima, Peru <br>
   <b>undergraduate</b>
 - Interested in <b>Full-Stack Developement</b>, <b>AI</b> and <b>Entrepreneurship</b>.<br>
@@ -12,8 +12,7 @@
 <br>
 
 
-## 💻 Things I know
-> <i>Skills</i>
+## Skills
 <br>
 <table>
   <tr>
