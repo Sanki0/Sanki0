@@ -36,6 +36,12 @@
     </td>
     <td align="center" width="96">
       <a>
+        <img src="./assets/bootstrap.svg" width="40"/>
+      </a>
+      <br>BOOTSTRAP
+    </td>
+    <td align="center" width="96">
+      <a>
         <img src="./assets/javascript.svg" width="40"/>
       </a>
       <br>JavaScript
