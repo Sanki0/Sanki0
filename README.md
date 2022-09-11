@@ -11,7 +11,7 @@
 - Interested in <b>Full-Stack Developement</b>, <b>AI</b> and <b>Entrepreneurship</b>.
 - I like playing team-based videogames and work on start-up ideas.
 - I’m currently learning everything about **Frontend** and **Backend** technologies.
-- Visit my <b> personal website: </b> https://sanki0.github.io/html/index.html
+- Visit my <b> personal website: </b> https://sebastian-ferreyra-portfolio.vercel.app/
 
 ## Skills
 <br>
@@ -19,51 +19,57 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="./assets/html.svg" width="40"/>
+        <img src="./assets/golang.svg" width="40"/>
       </a>
-      <br>HTML
+      <br>Go
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./assets/css.svg" width="40"/>
+        <img src="./assets/aws.svg" width="40"/>
       </a>
-      <br>CSS
+      <br>AWS
+    </td>
+        <td align="center" width="96">
+      <a>
+        <img src="./assets/docker.svg" width="40"/>
+      </a>
+      <br>Docker
+    </td>
+        <td align="center" width="96">
+      <a>
+        <img src="./assets/dynamo.png" width="40"/>
+      </a>
+      <br>DynamoDB
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./assets/sass.svg" width="40"/>
+        <img src="./assets/java.svg" width="40"/>
       </a>
-      <br>SASS
+      <br>Java
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./assets/bootstrap.svg" width="40"/>
+        <img src="./assets/spring.svg" width="40"/>
       </a>
-      <br>BOOTSTRAP
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./assets/mysql.svg" width="40"/>
+      </a>
+      <br>MySQL
     </td>
     <td align="center" width="96">
       <a>
         <img src="./assets/javascript.svg" width="40"/>
       </a>
-      <br>JavaScript
+      <br>Javascript
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a>
-        <img src="./assets/python.svg" width="40"/>
+        <img src="./assets/javascript.svg" width="40"/>
       </a>
       <br>Python
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="./assets/postgresql.svg" width="40"/>
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="./assets/c++.svg" width="40"/>
-      </a>
-      <br>C++
     </td>
     <td align="center" width="96">
       <a>
