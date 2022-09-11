@@ -55,7 +55,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="./assets/mysql.svg" width="40"/>
+        <img src="./assets/sql.svg" width="40"/>
       </a>
       <br>MySQL
     </td>
