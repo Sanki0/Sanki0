@@ -1,16 +1,14 @@
 # Hi, Welcome to my Github
-  I'm a Computer Science student - Software Engineer from Lima, Peru <br>
+Computer Science student / Software Engineer from Lima, Peru <br>
   
 ## Work Experience 
-- **Back End Developer Intern at Devmente** [2022]
+- **Cloud/Back End Developer at Devmente** [2022]
 - **Java Developer Trainee at Applaudo Studios** [2022]
 - **Front End Developer at San Francisco de Asis School** [2021]
 - **Cofounder and Tutor at ScienceTech Research UNI (NGO)** [2020]
 
 ## About me:
 - Interested in <b>Full-Stack Developement</b>, <b>AI</b> and <b>Entrepreneurship</b>.
-- I like playing team-based videogames and work on start-up ideas.
-- I’m currently learning everything about **Frontend** and **Backend** technologies.
 - Visit my <b> personal website: </b> https://sebastian-ferreyra-portfolio.vercel.app/
 
 ## Skills
